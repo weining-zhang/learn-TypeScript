@@ -1,0 +1,1 @@
+const xiaoJieJie : [string, string, number] = ['john', 'kobe', 38] // 规定哪个位置是什么数据类型
