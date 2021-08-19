@@ -9,7 +9,7 @@ const xiaoJieJie: { // 对象类型
   age: 18
 }
 
-const xiaoJieJies: string [] = ['谢大脚', '刘英', '李华',] // 数组类型
+const xiaoJieJies: string[] = ['谢大脚', '刘英', '李华',] // 数组类型
 
 class Person {} // 类类型
 const dajiao: Person = new Person()
