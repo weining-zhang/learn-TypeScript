@@ -1,5 +1,5 @@
-function getTotal(one: number, two: number) : number { // 函数返回类型注解
-  return one + two
+const getTotal = (one: number, two: number): number => { // 函数返回类型注解
+  return one + two;
 }
 const total = getTotal(1, 2)
 
